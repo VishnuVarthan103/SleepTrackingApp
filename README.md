@@ -1,8 +1,17 @@
 # SleepTrackingApp
 
-Demo video Link: https://drive.google.com/folderview?id=1P1ppfxkEfZ5rsNTeV7gDouORYMJXb-Wc
+DEMO VIDEO LINK: 
 
-Google Developer Profile Links:
-Team Lead :https://developers.google.com/profile/u/103399578159802815535
-Team Member1 :https://developers.google.com/profile/u/106857502487811045362
-Team Member2 : https://developers.google.com/profile/u/104220860888520289498?authuser=2
+https://drive.google.com/folderview?id=1P1ppfxkEfZ5rsNTeV7gDouORYMJXb-Wc
+
+
+TEAM GOOGLE DEVELOPER LINK:
+
+Team Lead Adhithya A :
+https://developers.google.com/profile/u/103399578159802815535
+
+Team Member Vishnu KS :
+https://developers.google.com/profile/u/106857502487811045362
+
+Team Member VishnuVarthan TA : 
+https://developers.google.com/profile/u/104220860888520289498?authuser=2
